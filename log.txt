@@ -201,3 +201,4 @@
 0237. 🎨 style: standardize quote style
 0730. ✅ test: test user registration edge cases
 0938. 🎨 style: rename variables for clarity
+0387. ✨ feat: enable dark mode toggle
