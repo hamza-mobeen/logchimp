@@ -207,3 +207,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0862. ♻️ chore: bump dependencies
 0928. 🎨 style: apply consistent indentation
+0839. 🎨 style: apply consistent indentation
