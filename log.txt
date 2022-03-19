@@ -208,3 +208,4 @@
 0862. ♻️ chore: bump dependencies
 0928. 🎨 style: apply consistent indentation
 0839. 🎨 style: apply consistent indentation
+0738. 🐛 fix: prevent crash on empty input
