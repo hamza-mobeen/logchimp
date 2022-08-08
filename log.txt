@@ -224,3 +224,4 @@
 0326. 🚀 perf: cache repeated calculations
 0514. 🐛 fix: fix broken CSS in mobile view
 0971. 🎨 style: standardize quote style
+0448. 🐛 fix: correct typo in registration form
