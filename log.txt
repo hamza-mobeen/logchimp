@@ -231,3 +231,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0169. 📚 docs: add API usage examples
 0392. 🎨 style: remove trailing whitespace
+0332. 🎨 style: standardize quote style
