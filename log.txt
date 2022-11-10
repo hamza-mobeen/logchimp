@@ -238,3 +238,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0812. 🔧 refactor: refactor quiz grading logic
 0110. 🐛 fix: prevent crash on empty input
+0838. 🎨 style: standardize quote style
