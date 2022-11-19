@@ -240,3 +240,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0838. 🎨 style: standardize quote style
 0954. 🚀 perf: cache repeated calculations
+0023. 📚 docs: clarify environment setup
