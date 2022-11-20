@@ -241,3 +241,4 @@
 0838. 🎨 style: standardize quote style
 0954. 🚀 perf: cache repeated calculations
 0023. 📚 docs: clarify environment setup
+0181. ♻️ chore: add GitHub actions badge
