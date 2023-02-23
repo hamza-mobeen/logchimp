@@ -248,3 +248,4 @@
 0902. ✨ feat: enable dark mode toggle
 0001. 🚀 perf: cache repeated calculations
 0635. 🎨 style: apply consistent indentation
+0372. ✨ feat: add user authentication
