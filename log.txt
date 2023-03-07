@@ -250,3 +250,4 @@
 0635. 🎨 style: apply consistent indentation
 0372. ✨ feat: add user authentication
 0586. 🎨 style: remove trailing whitespace
+0860. 🔧 refactor: organize models into subfolders
