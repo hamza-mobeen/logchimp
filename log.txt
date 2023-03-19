@@ -252,3 +252,4 @@
 0586. 🎨 style: remove trailing whitespace
 0860. 🔧 refactor: organize models into subfolders
 0871. ✅ test: add integration test for /submit endpoint
+0565. ♻️ chore: add GitHub actions badge
