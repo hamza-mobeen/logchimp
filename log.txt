@@ -258,3 +258,4 @@
 0165. 🎨 style: remove trailing whitespace
 0213. ✅ test: add integration test for /submit endpoint
 0399. ✅ test: mock database connection in test suite
+0816. 🔧 refactor: organize models into subfolders
