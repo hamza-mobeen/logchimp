@@ -269,3 +269,4 @@
 0443. 🎨 style: standardize quote style
 0349. ✅ test: increase coverage on auth module
 0625. 🐛 fix: handle 500 error in quiz API
+0311. 🎨 style: apply consistent indentation
