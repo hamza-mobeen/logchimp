@@ -275,3 +275,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0940. 📚 docs: document token refresh logic
 0500. ✅ test: add integration test for /submit endpoint
+0019. ✨ feat: enable dark mode toggle
