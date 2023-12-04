@@ -282,3 +282,4 @@
 0411. ✅ test: add unit test for quiz service
 0364. 🐛 fix: resolve issue with date parsing
 0820. 📚 docs: add API usage examples
+0245. 🐛 fix: resolve issue with date parsing
