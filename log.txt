@@ -300,3 +300,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0203. 🚀 perf: lazy-load components
 0976. ✨ feat: implement quiz timer feature
+0571. 🔧 refactor: clean up auth middleware
