@@ -304,3 +304,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0876. ♻️ chore: rename env.example
 0413. ✅ test: add integration test for /submit endpoint
+0845. 🚀 perf: cache repeated calculations
