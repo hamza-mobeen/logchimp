@@ -315,3 +315,4 @@
 0663. 🚀 perf: reduce image load time
 0354. 📚 docs: add API usage examples
 0506. 🐛 fix: handle 500 error in quiz API
+0248. 🐛 fix: handle 500 error in quiz API
