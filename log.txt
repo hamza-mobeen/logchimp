@@ -317,3 +317,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0248. 🐛 fix: handle 500 error in quiz API
 0951. 🎨 style: rename variables for clarity
+0293. ✅ test: add integration test for /submit endpoint
