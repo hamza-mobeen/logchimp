@@ -324,3 +324,4 @@
 0987. ✨ feat: create admin dashboard
 0503. ♻️ chore: rename env.example
 0805. ♻️ chore: add GitHub actions badge
+0852. ✨ feat: enable dark mode toggle
