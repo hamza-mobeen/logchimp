@@ -343,3 +343,4 @@
 0849. 🐛 fix: correct typo in registration form
 0961. 📚 docs: add API usage examples
 0096. 🐛 fix: prevent crash on empty input
+0568. 🐛 fix: handle 500 error in quiz API
