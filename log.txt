@@ -346,3 +346,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0975. 🎨 style: apply consistent indentation
 0353. ♻️ chore: rename env.example
+0803. ✅ test: mock database connection in test suite
