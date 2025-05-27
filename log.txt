@@ -351,3 +351,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0134. ✨ feat: implement quiz timer feature
 0062. ♻️ chore: update .gitignore
+0398. 🚀 perf: cache repeated calculations
