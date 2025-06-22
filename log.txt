@@ -355,3 +355,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0094. 📚 docs: document token refresh logic
 0458. ✨ feat: create admin dashboard
+0268. 🐛 fix: prevent crash on empty input
