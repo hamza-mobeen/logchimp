@@ -364,3 +364,4 @@
 0340. 🚀 perf: optimize database query for quiz results
 0462. ♻️ chore: update .gitignore
 0287. 📚 docs: write FAQ section
+0963. 🚀 perf: reduce image load time
