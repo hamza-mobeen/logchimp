@@ -366,3 +366,4 @@
 0287. 📚 docs: write FAQ section
 0963. 🚀 perf: reduce image load time
 0155. ✨ feat: create admin dashboard
+0969. ✨ feat: create admin dashboard
