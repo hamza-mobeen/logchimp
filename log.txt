@@ -370,3 +370,4 @@
 0781. 🚀 perf: reduce image load time
 0614. 🚀 perf: reduce image load time
 0187. ✨ feat: support email verification
+0884. 📚 docs: clarify environment setup
