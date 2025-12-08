@@ -379,3 +379,4 @@
 0664. ✅ test: add unit test for quiz service
 0595. ✨ feat: enable dark mode toggle
 0699. 🎨 style: standardize quote style
+0748. 🚀 perf: optimize database query for quiz results
