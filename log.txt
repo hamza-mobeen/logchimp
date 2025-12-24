@@ -384,3 +384,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0294. 🐛 fix: prevent crash on empty input
 0501. ✨ feat: add export to CSV option
+0186. ✅ test: test user registration edge cases
