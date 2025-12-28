@@ -385,3 +385,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0501. ✨ feat: add export to CSV option
 0186. ✅ test: test user registration edge cases
+0158. 📚 docs: clarify environment setup
