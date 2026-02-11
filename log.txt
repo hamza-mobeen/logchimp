@@ -395,3 +395,4 @@
 0262. 🎨 style: remove trailing whitespace
 0016. 🎨 style: apply consistent indentation
 0710. 🐛 fix: fix broken CSS in mobile view
+0596. ♻️ chore: update .gitignore
